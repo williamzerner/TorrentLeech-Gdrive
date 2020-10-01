@@ -26,7 +26,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 -   [ ] Adding mp3 files support while playlist downloading.
 -   [ ] Password support while Unarchiving the files.
 -   [ ] Selection of required files during leeching the big files using aria(/leech command)
--   [ ] Implement AutoRClone (To bypass 750 gb limit) (personal to-do)
+-   [ ] Implement AutoRclone(https://github.com/xyou365/AutoRclone) (To bypass 750 gb limit) (personal to-do)
 
 ### Credit goes to SpEcHiDe for his Publicleech repo.
 
